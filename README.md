@@ -1,1 +1,3 @@
 # RICECoin
+Project website: everberries.ru, eberry.pw
+Website coming soon...
